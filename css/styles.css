@@ -1,0 +1,9 @@
+.page-menu {
+  margin-top: 21px;
+}
+.page {
+  display: none;
+}
+.page.active {
+  display: block;
+}
